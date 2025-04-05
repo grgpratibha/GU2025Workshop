@@ -1,0 +1,11 @@
+1. create a new folder 
+2. open that folder from command prompt and use
+pip install streamlit
+3. create a file with .py extension on that folder
+4. from command line open that .py file with command
+streamlit run filename.py
+
+if email prompt enter your username and it will prompt for local host. 
+5. filename.py will open in browser. 
+
+
