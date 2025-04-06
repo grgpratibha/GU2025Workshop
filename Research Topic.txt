@@ -8,7 +8,7 @@ Topic: Temperature change in Pokhara
 search in IEEE or scihub
 
 
-
+https://github.com/pythondevelopersnepal/workshopGandaki2025
 https://www.kaggle.com/code/gauravmahapatro/temp-change-model-forecasting-india
 
 https://opendatanepal.com/dataset/district-wise-daily-climate-data-for-nepal/resource/a1601f7e-8eb2-4811-b83d-263d181f9abb
