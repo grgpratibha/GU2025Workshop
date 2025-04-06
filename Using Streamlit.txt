@@ -1,11 +1,62 @@
-1. create a new folder 
-2. open that folder from command prompt and use
+#deploying in local
+Step 1. create a new folder 
+Step 2. open that folder from command prompt and use
 pip install streamlit
-3. create a file with .py extension on that folder
-4. from command line open that .py file with command
+Step 3. create a file with .py extension on that folder
+Step 4. from command line open that .py file with command
 streamlit run filename.py
 
-if email prompt enter your username and it will prompt for local host. 
-5. filename.py will open in browser. 
+if email prompt enter your username and it will prompt for local host. Or CTRL + C can also be used. 
+Step 5. filename.py will open in browser. 
+Step 6. once run need to open cmd prompt to open other .py files
 
+
+use geopandas for map features
+
+
+#deploying on internet
+streamlit.io
+
+step1: go to deploy option>> free
+step 2: link to your git account
+step 3: on git account add repository and make it public for deployment
+step 4: on that repository add files to deploy and click on commit
+step 5: from streamlit access that git account and look changes.
+
+
+#for images- annotation
+label.io and see its doc
+
+create a new folder name as data annotation. open it on cmd
+on cmd 
+step1: pip install label-studio
+step 2: label-studio 
+step 3: login for label sudio
+step 4: create a new project and upload images 
+step 5: genral, labelling interface, annotation to work and add 
+step 6: labelling interface>> code>>(here wee are using s2_label interface code). click save and ready to see code or visual on button. and save . 
+
+#deep learning
+https://github.com/pythondevelopersnepal/workshopGandaki2025/blob/main/S2.1_Deep_Learning_Terms.ipynb
+
+batch= 32 or 64
+why deep learning? ans: when data are huge, complex
+
+
+#working with images
+
+annote and then 
+1. converting image to array ie resize the original image (lower pixel)
+2. normalize 
+3. flatten ( meaning: conversion of image)
+
+library: tensorflow
+
+practical : 
+https://github.com/pythondevelopersnepal/workshopGandaki2025/blob/main/S2.2_MNIST_dataset_CNN.ipynb
+
+4. after working with images(mnist data) work with streamlit
+i.e repeat deploying with streamlit
+
+cnn architecture layer (read)
 
