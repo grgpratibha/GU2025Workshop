@@ -1,0 +1,14 @@
+facebookgroup:python developers nepal
+ankit Bhattarai
+Prakash pandey - pandeyprakash694@gmail.com
+
+
+Topic: Temperature change in Pokhara
+
+search in IEEE or scihub
+
+
+
+https://www.kaggle.com/code/gauravmahapatro/temp-change-model-forecasting-india
+
+https://opendatanepal.com/dataset/district-wise-daily-climate-data-for-nepal/resource/a1601f7e-8eb2-4811-b83d-263d181f9abb
