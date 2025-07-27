@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1YIw3am9PCLB6qL9aUUlPg2xdGCO2qwBK
 """
 
-pip install kaggle
+!pip install kaggle
 
 import kagglehub
 from kagglehub import KaggleDatasetAdapter
